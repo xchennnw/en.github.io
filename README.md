@@ -30,7 +30,7 @@ Basic lighting models, Gaussian blur, Bloom, vertex animation, noise, and so on.
 ## Some games
 <br/>
 ### Unity3D implementation of the combat in Harry Potter: Magic Awaken   
-Using Unity and C#，I implemented the combat gameplay in Harry Potter: Magic Awaken（with AI controlled opponent). I wrote the combat scene GUI, character controlling, the system of cards and magic points，and some spells including various kinds of attacking, healing, defense, friend cards, and summon animals.
+Using Unity and C#，I implemented the combat gameplay in Harry Potter: Magic Awaken（with AI controlled opponent). I wrote the combat scene GUI, character controlling, the system of cards and magic points，and some spells including various kinds of attacking, healing, defense, friend cards, and summoning animals.
 <iframe src="//player.bilibili.com/player.html?aid=433936726&bvid=BV1zG411P7jR&cid=927083114&page=1" width="500" height="280" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
 ### Unity3D platform shooting game 
