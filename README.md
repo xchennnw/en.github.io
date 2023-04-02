@@ -5,7 +5,7 @@ My Portfolio
 ## Computer graphics related
 <br/>
 ### Monte Carlo path tracing renderer based on C++ and OpenGL                                                     
-This project uses C++ and OpenGL to implement a Monte Carlo path tracing renderer. The algorithm is implemented in shaders to enable GPU acceleration. It includes intersection calculations between rays and scenes, Monte Carlo path tracing algorithms, lighting and BRDF multiple importance sampling, and various materials such as diffuse, specular, glass, transmission, and microfacet models.
+This project uses C++ and OpenGL to implement a Monte Carlo path tracing renderer. The algorithm is implemented in shaders to enable GPU acceleration. It includes intersection calculations between rays and scenes using BVH, Monte Carlo path tracing algorithms, lighting and BRDF multiple importance sampling, and various materials such as diffuse, specular, glass, transmission, and microfacet models.
 <iframe src="//player.bilibili.com/player.html?aid=226443677&bvid=BV1sb411o7os&cid=1064886672&page=1" width="500" height="280" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
 ### Mini Minecraft based on C++ and OpenGL                                                                             
