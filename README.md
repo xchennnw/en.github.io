@@ -12,7 +12,8 @@ This project uses C++ and OpenGL to implement a Monte Carlo path tracing rendere
 We worked in team of 3 to imitate the scene generation and basic gameplay of Minecraft using C++ and OpenGL. Features include rendering and texturing of blocks, rendering and control of the player (including switching between first-person and third-person views, animation, and gliding functionality), physical simulation and collision detection of the player, procedural generation of multiple surface terrain and biomes, underground caves, rivers, water surface shader and underwater post-process, block addition and removal functionality, and rendering and control of NPCs.
 <iframe src="//player.bilibili.com/player.html?aid=353981991&bvid=BV1zX4y1d7s9&cid=1066472125&page=1" width="500" height="280" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
-### C++ Rasterization renderer                                                                    This project uses C++ to implement a CPU-based rasterization renderer. It includes the reading of model files in JSON format, a camera that can be controlled in terms of position and rotation, triangulation, transformation from world space to screen space, line-by-line triangle intersection testing, barycentric coordinate interpolation, z-buffering, and MSAA anti-aliasing.
+### C++ Rasterization renderer                                                                  
+This project uses C++ to implement a CPU-based rasterization renderer. It includes the reading of model files in JSON format, a camera that can be controlled in terms of position and rotation, triangulation, transformation from world space to screen space, line-by-line triangle intersection testing, barycentric coordinate interpolation, z-buffering, and MSAA anti-aliasing.
 ![pic](/img/rasterizer.png){:height="50%" width="50%"}![pic](/img/rasterizer2.png){:height="50%" width="50%"}
 <br/>
 <br/>
